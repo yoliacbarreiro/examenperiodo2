@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.encabezado_tusiniciales img{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+
+body{
+    background-color: brown;
+}
+
+.párrafo_tusiniciales{
+    width: 60%;
+    padding: 10px;
+    background-color: beige;
+    margin: auto;
+}
+
+
+p{ 
+    color: blanchedalmond;
+    font-size: 2em;
+    padding: 10px;
+    background-color: olive;
+    
+}
+
+.párrafo_tusiniciales img{
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+}
+
+h2{
+    color: bisque;
+    background-color: green;
+    font-size: 3em;
+    padding: auto;
+}
+
+ul{
+    font-size: 2em;
+    background-color: olive;
+    color: blanchedalmond;
+    padding: 2em;
+}
